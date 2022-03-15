@@ -41,9 +41,7 @@ Sources and folders:
 │   ├── _media.scss
 │   ├── _mixins.scss
 │   └── style.css                           * compile scss files to css
-|
 ├── img/                                * images folder
-|
 ├── js/                                       * js folder
 │   ├── main.js                                     * source js                                
 │
