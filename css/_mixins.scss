@@ -1,0 +1,13 @@
+@mixin btn-style {
+    background-color: #335eea;
+    color: white;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+    &:hover {
+        background-color: #2b50c7;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+        transform: translateY(-3px)
+    }
+
+   
+}

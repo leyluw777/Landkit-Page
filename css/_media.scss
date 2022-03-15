@@ -1,0 +1,227 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    section {
+        .section-three {
+            .three-right {
+                .three-right-in {
+                    .skewed-img {
+                        right: 0 !important;
+                        max-width: 90% !important;
+                    }
+
+                }
+
+            }
+        }
+
+        .section-four {
+
+            .slick-btns {
+                width: 100%;
+                .slick-prev {
+                    left: 5%;
+                }
+                .slick-next {
+                    right: 11%;
+                }
+            }
+        }
+
+        .section-five {
+            .five-left {
+                .five-left-in {
+                    .statics-div {
+                        width: 70%;
+                    }
+                }
+            }
+        }
+
+        .section-six {
+            .answer {
+                width: 100%;
+            }
+        }
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    section {
+        .section-four {
+
+            .slick-btns {
+                width: 100%;
+                .slick-prev {
+                    left: 0;
+                }
+                .slick-next {
+                    right: 5%;
+                }
+            }
+        }
+
+        .section-five {
+            .five-left {
+                .five-left-in {
+                    .statics-div {
+                        width: 50%;
+                    }
+                }
+            }
+        }
+
+        .section-six {
+            .answer {
+                width: 100%;
+            }
+        }
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    section {
+        .section-three {
+            .three-left-in {
+                p {
+                    width: 80% !important;
+                }
+            }
+
+        }
+
+        .section-four {
+            .four-head {
+                p {
+                    width: 50%;
+                }
+            }
+
+            .slick-btns {
+                width: 87%;
+                .slick-prev {
+                    left: -5%;
+                }
+                .slick-next {
+                    right: 0;
+                }
+            }
+        }
+
+        .section-five {
+            .five-left {
+                .five-left-in {
+                    .statics-div {
+                        width: 90%;
+                    }
+                }
+            }
+        }
+
+        .section-six {
+            .answer {
+                width: 100%;
+            }
+
+            .six-part-2 {
+                .six-p {
+                    width: 80%;
+
+                }
+            }
+        }
+
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    section {
+        .section-four {
+            .slick-btns {
+                width: 85%;
+                .slick-prev {
+                    left: -5%;
+                }
+                .slick-next {
+                    right: -2%;
+                }
+            }
+        }
+
+        .section-five {
+            .five-left {
+                .five-left-in {
+                    .statics-div {
+                        width: 70%;
+                    }
+                }
+            }
+        }
+
+        .section-six {
+            .answer {
+                width: 70%;
+            }
+
+            .six-part-2 {
+                .six-p {
+                    width: 60%;
+
+                }
+            }
+        }
+    }
+}
+
+
+
+@media only screen and (max-width: 992px) {
+
+        nav {
+            .navbar-collapse {
+
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                padding: 20px;
+
+
+            }
+        }
+
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    section {
+        .section-four {
+            .slick-btns {
+                width: 82%;
+            }
+        }
+
+        .section-five {
+            .five-left {
+                .five-left-in {
+                    .statics-div {
+                        width: 70%;
+                    }
+                }
+            }
+        }
+
+        .section-six {
+            .answer {
+                width: 70%;
+            }
+
+            .six-part-2 {
+                .six-p {
+                    width: 45%;
+
+                }
+            }
+        }
+    }
+}
