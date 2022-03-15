@@ -29,37 +29,3 @@ Features of website:
 4. Ken Wheeler slick slider
 5. Typing effect using js 
 6. Mixin that is used for style of button
-
-
-
-Sources and folders:
-./
-
-├── README.md
-|
-├── css/                                * style folder
-|   ├── style.scss                          * general sass preprocessor styles
-│   ├── _media.scss
-│   ├── _mixins.scss
-
-│   └── style.css                           * compile scss files to css
-
-├── img/                                * images folder
-
-├── js/                                       * js folder
-
-│   ├── main.js                                     * source js    
-
-│
-
-└── slick/                                    * slick slider folder and downloaded slick files
-
-
-
-./
-
-README.md
-css/
-    style.scss
-    _media.scss
-    _mixins.scss
