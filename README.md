@@ -13,7 +13,7 @@ All contents was assembled into one section part
 The last part with the all links are in the footer.
 
 
-Technologies that are used in this template:
+Technologies that are used in this template: 
 1. HMTL
 2. Sass
 3. Media queries
@@ -30,21 +30,3 @@ Features of website:
 5. Typing effect using js 
 6. Mixin that is used for style of button
 
-
-
-Sources and folders:
-./
-├── README.md
-|
-├── css/                                * style folder
-|   ├── style.scss                          * general sass preprocessor styles
-│   ├── _media.scss
-│   ├── _mixins.scss
-│   └── style.css                           * compile scss files to css
-|
-├── img/                                * images folder
-|
-├── js/                                       * js folder
-│   ├── main.js                                     * source js                                
-│
-└── slick/                                    * slick slider folder and downloaded slick files
