@@ -53,3 +53,13 @@ Sources and folders:
 │
 
 └── slick/                                    * slick slider folder and downloaded slick files
+
+
+
+./
+
+README.md
+css/
+    style.scss
+    _media.scss
+    _mixins.scss
