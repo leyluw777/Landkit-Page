@@ -30,3 +30,39 @@ Features of website:
 5. Typing effect using js 
 6. Mixin that is used for style of button
 
+<<<<<<< HEAD
+=======
+
+
+Sources and folders:
+./
+
+├── README.md
+|
+├── css/                                * style folder
+|   ├── style.scss                          * general sass preprocessor styles
+│   ├── _media.scss
+│   ├── _mixins.scss
+
+│   └── style.css                           * compile scss files to css
+
+├── img/                                * images folder
+
+├── js/                                       * js folder
+
+│   ├── main.js                                     * source js    
+
+│
+
+└── slick/                                    * slick slider folder and downloaded slick files
+
+
+
+./
+
+README.md
+css/
+    style.scss
+    _media.scss
+    _mixins.scss
+>>>>>>> 51d3dc9e71c1f781589d81604b7d962b98091cf6
