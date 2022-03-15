@@ -34,16 +34,12 @@ Features of website:
 
 Sources and folders:
 ./
+
 ├── README.md
-
 |
-
 ├── css/                                * style folder
-
 |   ├── style.scss                          * general sass preprocessor styles
-
 │   ├── _media.scss
-
 │   ├── _mixins.scss
 
 │   └── style.css                           * compile scss files to css
