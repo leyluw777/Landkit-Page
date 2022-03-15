@@ -35,14 +35,25 @@ Features of website:
 Sources and folders:
 ./
 ├── README.md
+
 |
+
 ├── css/                                * style folder
+
 |   ├── style.scss                          * general sass preprocessor styles
+
 │   ├── _media.scss
+
 │   ├── _mixins.scss
+
 │   └── style.css                           * compile scss files to css
+
 ├── img/                                * images folder
+
 ├── js/                                       * js folder
-│   ├── main.js                                     * source js                                
+
+│   ├── main.js                                     * source js    
+
 │
+
 └── slick/                                    * slick slider folder and downloaded slick files
